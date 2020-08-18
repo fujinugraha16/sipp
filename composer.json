@@ -1,0 +1,12 @@
+{
+    "name": "fujinugraha16/sipp",
+    "authors": [
+        {
+            "name": "fujinugraha16",
+            "email": "fujinugraha16@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    }
+}
